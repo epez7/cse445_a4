@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotels>
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E.7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	
+	<Hotel Rating="4.3">
+		<Name>Arizon Grand Resort</Name>
+		<Phone>877-800-4888</Phone>
+		<Address NearestAirport="Sky Harbor">
+		<Street>South Arizona Grand E</Street>
+		<City>Phoenix</City>
+		<State>AZ</State>
+		<Zip>85044</Zip>
+	</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Scottsdale Plaze Resort</Name>
+		<Phone>480-948-5000</Phone>
+		<Address NearestAirport="Scottsdale Airport">
+			<Street>N Scottsdale Rd</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85253</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>McCormick Scottsdale</Name>
+		<Phone>800-535-1865</Phone>
+		<Address NearestAirport="Scottsdale Airport">
+		<Street>N Scottsdale Rd</Street>
+		<City>Scottsdale</City>
+		<State>AZ</State>
+		<Zip>85253</Zip>
+	</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Marriott Phoenix Resort Tempe</Name>
+		<Phone>602-225-9000</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Street>W Westcourt Way</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85282</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.4">
+		<Name>WorldMark Phoenix</Name>
+		<Phone>602-386-1900</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Street>E Francisco Dr</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85044</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.0">
+		<Name>The Clarendon</Name>
+		<Phone>602-252-7363</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Street>W Clarendon Ave</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85013</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Legacy Golf Resort</Name>
+		<Phone>602-305-5500</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Street>S 32nd St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85042</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Omni</Name>
+		<Phone>480-627-3200</Phone>
+		<Address NearestAirport="Scottsdale Airport">
+			<Street>E Lincoln dr</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85253</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.0">
+		<Name>DoubleTree</Name>
+		<Phone>602-997-5900</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Street>N Metro Pkwy E</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85051</Zip>
+		</Address>
+	</Hotel>
+	
+</Hotels>
