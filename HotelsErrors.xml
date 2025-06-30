@@ -1,1 +1,56 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<Hotel>
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E.7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.3">
+		<Name>Arizon Grand Resort</Name>
+		<Phone>877-800-4888</Phone>
+			<Street>South Arizona Grand E</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85044</Zip>
+	</Hotel>
+
+	<Hotel>
+		<Name>Scottsdale Plaze Resort</Name>
+		<Address NearestAirport="Scottsdale Airport">
+			<Street>N Scottsdale Rd</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85253</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>McCormick Scottsdale</Name>
+		<Phone>800-535-1865</Phone>
+		<Address NearestAirport="Scottsdale Airport">
+			<Street>N Scottsdale Rd</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85253</Zip>
+	</Hotel>
+
+	<Hotel>
+		<Name>Marriott Phoenix Resort Tempe</Name>
+		<Name>Resort</Name>
+		<Phone>602-225-9000</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Street>W Westcourt Way</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85282</Zip>
+		</Address>
+	</Hotel>
+
+</Hotel>
